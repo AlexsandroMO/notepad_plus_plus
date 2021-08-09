@@ -1,0 +1,775 @@
+CC-000000-30700-11-924
+
+http://udc0-sis02:8080/CadernoDeConstrucao/jsf/operacional/caderno/configurarCadernos.xhtml
+
+Suporte
+CC-319523-18111-11-501
+CC-319523-18111-11-502
+CC-319522-18114-11-501 
+
+Pintura
+CC-201478-63120-11-501
+
+
+
+#Chave - Mapa
+EF00012
+
+
+SMB TORQUE
+Aperto a não mais 1/4 de volta (SMB-200963)
+EF00015H|M09
+EF00015HH|M09
+EF00014H|M09
+EF00014HH|M09
+EF00013H|M09
+EF00013HH|M09
+EF00012H|M09
+EF00012HH|M09
+
+
+
+
+SIECC admin
+liberal
+  
+  
+#Ver com Gilliard
+CC-000000-30700-12-074
+
+
+#Ver com Eghon
+CC-319693-47312-11-051 esta abrindo o cc no lugar no dei quando eu aperto pra abrir 
+CC-319693-47312-11-053 ESTA ACONTECENDO A MESMA COISA
+CC-200710-47317-11-006
+
+#===================================================================
+Flavio
+
+#Inpeções pra gerar com dois CCs
+E07
+E09
+E11
+E16
+E21
+E23
+E24
+B07 - Se for de cabo
+B25 - Se for de cabo
+
+
+CC-200551-30600-11-002
+CC-000000-30700-11-043 - ver LMA se saiu os EG02503 e EG02504 que estão no CC-319712-30700-11-028
+
+
+#===============================
+
+os equipamentos 
+
+(DM12504N, CTE00949595, CMD:50DD500D00047)
+(ME16310Q, CTE00976522, CMD:50AM200D117)
+(ME12912Q, CTE00976995, CMD:50AM200D117)
+(ME12911Q, CTE00976997, CMD:50AM200D117)
+(ME13012P, CTEPROV31973111, CMD:50AM200A00060)
+(ME13011P, CTE00976996, CMD:50AM200A00060)
+
+foram identificados na Inspection Request com os respectivos CTEs, porém os mesmos não estão relacionados na SMB-204090. Favor esclarecer
+SMB-319763
+
+
+The equipments
+
+(DM12504N, CTE00949595, CMD: 50DD500D00047),
+(ME16310Q, CTE00976522, CMD: 50AM200D117),
+(ME12912Q, CTE00976995, CMD: 50AM200D117),
+(ME12911Q, CTE00976997, CMD: 50AM200D117),
+(ME13012P, CTEPROV31973111, CMD: 50AM200A00060),
+(ME13011P, CTE00976996, CMD: 50AM200A00060),
+
+were identified in Inspection Request with the respective CTEs, but they are not listed on SMB-204090. Please clarify
+
+RD-07414
+
+RD-07416
+
+
+
+=============================
+
+
+RAI-SBR2-01801-319693
+
+CC-319725-30700-11-001 - Revisar
+Revisar LIT para inserir inspeções F07 (BB22510 - BBZ0001), (BB00037 - BBZ0003), (BB00075 - BBZ0004), (BB00076 - BBZ0005), (BB00099 - BBZ0006),(BB00100 - BBZ0007),(BB02506 - BBZ0008/BBZ0010/BBZ0011/BBZ0012), conforme AIS SMB-006011. PROV para todos. 
+
+
+
+CC-319698-30700-11-017 = Atender PR
+44JO210D00228
+P0121779
+ES12506T
+PR-6074733
+
+
+
+
+
+CTE00986880
+
+Olhar como ficou o Mapa amanhã: 10/09/2019
+
+
+
+#--------------------------------------------------------------------
+INSPEÇÕES B11, B06 etc. (torques) Aceitar o CTE que foi pagado na época sem problema. Não precisa atualizar...
+
+
+CC-321703-80500-13-001
+
+2) CC-200569-80500-13-007
+3) CC-319720-80500-13-004
+4) CC-200569-80500-14-007
+
+
+SMB-319750
+SMB-200052 e SMB-200945
+BDM-00014521
+SBH.2B30.SMD.006417 - 26 e 27
+CC-319487-18111-11-001 - Seating
+
+
+
+CTE00850775 - QA01
+
+CC-319750-80500-11-015  << devia estar aqui?
+CC-319750-80500-11-017 - hoje ta aqui (Não Elaborado)
+#------------------
+EQ00061
+22BA000A00073
+24SP000D00010
+BDM-00014521
+SMB-200945
+
+CC-319487-18111-11-001 - Seating
+
+Yuri Jose Brasil da Costa
+
+#====================================
+RD-06980
+
+CC-319758-80500-12-006 - verifica
+
+CC-319737-80500-13-001 - OK
+CC-319737-80500-14-001 - OK
+rev
+CC-200581-61110-11-001 - ok - AZ
+CC-200767-42520-11-002 - OK - AZ
+CC-321699-80500-11-002 - OK - Cilindro
+CC-321699-80500-11-008 - OK - Cilindro
+CC-321699-80500-11-005 - Ok
+CC-319731-16911-11-003 - Ok
+
+ATUALIZADO LMA CONFORME PR-6108929.
+Caderno Excel: CC-200712-47314-11-016
+
+
+ 
+ 
+
+
+DEI-200712-30600-11-009
+Colocar no SIECC -  (Já com a Jovem)
+
+
+
+
+
+#VER COM EGHON
+CC-200569-30600-11-005
+CC-319693-47312-11-011
+n quer gerar DEI
+
+
+ewerton.silva
+
+
+
+
+#==============================
+#CADERNOS DE ELÉTRICA
+Atender RD-07117{
+Seguir SMB-330521_L - OO63432B - OO23808 not EJ02503.
+}
+
+
+Retirado as rotas AD06671J, AD072083 e BAB18-20 conforme TAF-TA-2018-0918 (OO24506 e OO24507)
+
+Modificado IM do cabo HE22500I para HE22500R conforme RD-07223
+
+CC-SBR1 - Revisado conforme PR-6028086. Acrescentar inspeção E02 para a rota MBA
+
+Conforme decisão da Diretoria da ICN os cabos (BC62601F a BC62624F) e (BC62801F a BC62824F) voltarão a ser cortados conforme (SMB-330521_L - PR-6075794).
+
+#REVISADO ROTAS CONFORME PR-6080672, PR-6028086 E RD-07117. Alterado rotas AD045046 para AD046046, Acrescentar inspeção E02 para a rota MBA.
+#CC-SBR2
+CC-000000-30400-12-001
+CC-000000-30400-13-001
+CC-000000-30400-14-001
+
+nós identificamos que na LIT as rotas sapiram com 53B nos prefíxos de submarino. Queria saber se já estavam usando e se podiamos fazer a correção te reenviar. 
+
+Não vai mudar nada no seu processo pq foi só a indicação do sub que saiu errado, o 
+
+Notas:
+
+SUBSTITUÍDO EQUIPAMENTO EJ02503 PELO OO23808 CONFORME RD-07117 | RETIRADAS AS ROTAS AD06671J, AD072083 e BAB18-20 CONFORME TAF-TA-2018-0918 | MODIFICADO IM DO CABO HE22500I PARA HE22500R CONFORME RD-07223 | ACRECENTADA INSPEÇÃO E02 PARA A ROTA MBA.
+
+}
+
+#CC-SBR1 - Retirado as rotas AD e BAB das fibras opticas, conforme TAF-TA-2018-0918
+CC-348462-30400-11-001 | OO62503B | BAB BAB18-20 e AD072083
+CC-319221-30400-11-001 | OO62502B | AD AD06671J
+
+
+#CC-SBR1 - Revisado conforme PR-6028086. Acrescentar inspeção E02 para a rota MBA
+LIT-321715-30400-11-001
+
+
+
+#Revisado conforme PR-6080672. Alterado rotas AD045046 para AD046046
+CC-319213-30400-11-001 = [
+					P0156235 EG62732R
+					P0156233 EG62733R
+					P0156234 EG62760R
+					P0156230 EG62761R
+]
+
+CC-000000-80500-11-011 - Revisar conforme resposta do rida 7145/ adicionar CP1-1 e CP1-2
+CC-319772-63310-11-001 - Revisar conforme resposta do rida 7145/ adicionar CP1-1 e CP1-2
+
+CC-200538-30700-11-003
+Adicionado inspeções B07 e B25 conforme respsota do RD-07223 e PR-6073015
+
+
+
+#CC-SBR1 - Sem alterações
+#BC626
+CC-200500-30400-11-001
+CC-348462-30400-11-001
+CC-200490-30400-11-001
+#BC628
+CC-200500-30400-11-001
+CC-319225-30400-11-001
+CC-319212-30400-11-001
+
+
+#================================
+CC-348462-30400-11-001
+CC-319221-30400-11-001
+
+CC-321715-30400-11-001 - MBA
+COS-SMB-321715	MBA	| E02 | E02
+PR-6028086 e RAI-SBR1-03387-321715, Corrigir a rota do EQ22502R e inserir E02 do MAZ; 
+
+CC-319213-30400-11-001
+CC-200500-30400-11-001
+CC-348462-30400-11-001
+CC-200490-30400-11-001
+CC-319225-30400-11-001
+CC-319212-30400-11-001
+
+
+
+W:\DIN\GD\DOC\01_COMPARTILHADO\CRC\01-CC\03 - Aprovados
+
+
+
+
+ADICIONADO INSPEÇÕES E05 E E01. AJUSTADO LMA E DETALHES DE INSTALAÇÃO
+
+Inspection of the correct assembly of the HP air storage cylinder unit 3 DY00032 - Presence of the inspection report stating that the slot located on the bottom equipment is correctly orientated upwards - SMB-000598
+
+Inspection of the correct assembly of the HP air storage cylinder unit 3 DY00031:
+
+Once the cylinder is mounted at an angle, check that the slot on the bottom equipment is properly directed upwards which guarantees the orientation of the drain tube downwards (oriented opposite to the slot).
+To do so, check that the inspection reports stating the proper position of the slots directed upwards are present. 
+
+
+2.6 Segundo a SMB-030510 é necessário remover os tampões de vedação: As extremidades dos
+cilindros devem ser protegidas por tampões de vedação adequados para manter a folga interna.
+Esses bujões em branco devem ser removidos durante a conexão final aos tubos. eles retornarão
+quando um dos cilindros for deixado "aberto" (não conectado). Qualquer cilindro sem os tampões
+de vedação deve ser considerado contaminado, deve ser submetido a um exame boroscópico e
+deve ser limpo novamente se a contaminação for encontrada
+ 
+
+5.4 A inspeções CTE01045096 e CTE01045115 não foram identificadas no AIS SMB-051174.
+Aguardando resposta do RD-07426.
+5.4 Conforme SMB-500175 (pg.35) o aterramento dos HP air cylinder deve ser utilizado
+parafusos (32VI130D00125) - Copper 10M8 e (32VI141D00271 - Copper 10M6) e Lugs
+0930930290351 e 0930930043780. O procedimento de aterramento do cilindro fica a cargo da
+produção, porém o RD-07423 foi aberto pedindo esclarecientos.
+ 
+ 
+RD-07423 - 
+RD-07427 - 
+
+
+ - SMB-000594
+
+After the cylinder has been installed in a tilted position, make sure that the notch on the mounting base is oriented upwards, thus guaranteeing that the bleed pipe is oriented downwards (oriented in the opposite direction to the notch). Check the presence of the reports on the checks on the upward position of the notches.
+
+
+
+CONEXÕES DE CABOS A EQUIPAMENTOS ELÉTRICO
+4. DESENHOS DE REFERÊNCIA
+4.1 Para conexão dos equipamentos ver documentos de referência na capa do caderno.
+4.2 Os conectores para os cabos elétricos são fornecidos em conjunto com os equipamentos, portanto o material está associado aos produtos dos equipamentos.
+
+
+=============
+
+
+
+META DOS OUTROS
+
+CC-319728-80500-12-001 - Ok
+CC-319728-80500-13-001 - Ok
+CC-319728-80500-14-001 - Ok
+
+CC-200710-30700-13-002 - Ok
+CC-200710-30700-14-002 - Ok
+
+CC-200763-80500-13-002 - Ok
+CC-200763-80500-14-002 - Ok
+
+
+comentários do CC-200763-80500-13-002 :
+Usar o torque do tipo 1 da SMB-200960 (55N.m)
+A resposta da caixa não incluiu os volantes: EN00012R e EN00011R, confirma com eles se eles chegaram tb.
+Template B06
+Usar o torque 55N.m na part  A
+O template está com o n° do caderno do SBR2 
+
+
+
+
+#===================================================================== 
+a importância de entender e considerar a resposta da caixa 
+a importância de não pagar elementos de fixação do COS de suporte sem colocar nota
+e onde o EPM auxilia nessas verificações
+ 
+###USUARIO_EPM###
+
+
+
+na SMB-002904, temos um E01 para o HL40080, porém não encontro mais essa inspeção no batch 33
+Geraldo Alves Simoes Filho
+
+
+(CTE00788217, CTE00887335, CTE00781222, CTE00850775, CTE00799687, CTE00770654, CTE00760085 e CTE00847316)
+CC-000000-30700-12-136
+
+
+
+
+
+#=====================================
+CC-000000-80500-11-011 - Publicado - Anodo - meu
+CC-319772-63310-11-001 - Publicado - Anodo
+
+CC-000000-30700-12-136 - Publicado
+CC-000000-30700-13-136 - Publicado
+CC-000000-30700-14-136 - Publicado
+
+CC-000000-30700-13-107 - Publicado
+CC-000000-30700-14-107 - Publicado
+
+INSTALAÇÃO DOS EQUIPAMENTOS
+1. DESENHOS DE REFERÊNCIA
+1.1. Para instalação dos equipamentos ver documentos de referência na capa do caderno.
+2. MONTAGEM A BORDO:
+2.1. Os ânodos não devem ser pintados previamente, conforme documento BDM-00020208/MAT147-0026_EXP. Realizar proteção na face dos ânodos para a realização da pintura próxima a instalação dos ânodos.
+2.2. Para procedimento de pintura dos Anodos, ver SMB-002081 Fl.07.
+2.3. Realizar a inspeção C24M, 100% visual (VT) nos ânodos instalados, conforme (SMB-200853 / SMB-001386).
+3. NOTAS:
+3.1. As inspeções (CTE00779873, CTE00805833 e CTE00848375), referente a QA01, só serão realizadas após a montagem de todos os equipamentos desses COS.
+3.2. Os equipamentos deste caderno compartilham o mesmo CMD 01PC100D00001. Para pesagem desse CMD, foi utilizado o CTEPROV20076708 referente a inspeção L01, no caderno CC-200767-42520-11-002.
+3.3. Para realização da inspeção C24M, foi utilizado o CTEPROV20076703, pago no caderno 200767-42520-11-002
+
+
+
+
+
+
+
+Novembro
+#------------------------------------------
+CC-000000-30700-13-078 - OK 
+CC-000000-30700-14-078 - OK 
+
+CC-200535-30700-12-001 - OK
+CC-200535-30700-13-001 - OK
+CC-200535-30700-14-001 - OK
+
+CC-200710-30700-13-005 - OK
+CC-200710-30700-14-005 - OK
+
+CC-319720-30700-13-012 - OK
+CC-319720-30700-14-012 - OK 
+
+
+#Fazer caderno para os:
+#EQ12000 e EQ11000
+CC-000000-30700-11-137 - Block
+CC-000000-30700-12-204 - Block
+CC-000000-30700-13-204 - Block
+CC-000000-30700-14-204 - Block
+#SBH.PLM.3B22.000618 / SMB-TDP-PR-5359717
+#SBH.PLM.3B22.000618 / SMB-TDP-PR-5382819
+#SMB-325109
+#SBH.PLM.3B22.003294
+#SBH.PLM.3B22.002824
+
+
+Ubirajara S. C. Junior
+
+Cesar M. Oliveira
+
+
+
+
+
+# ############# Revisão...
+CC-000000-30600-11-077 - Feito
+#Acrescentar a inspeção E09 (CTE00960741) (aguardando a resposta do rida-05847); incluir PR-5598110
+CC-321698-80500-11-001 - Feito
+#Revisar conforme resposta do rida 7145 (incluir inspeções CP1-1 e CP1-2); atender o rida 6585
+CC-321698-80500-11-002 - Feito
+#Revisar conforme resposta do rida 7145| incluir inspeções dos anodos
+
+
+
+
+http://api-doc.icnavais.net/document/downloadGeral/lastRevision?number=" & Pesquisa
+
+#Parado no SIECC
+CC-000000-80500-11-600
+
+Revisão do SBR - Elétrica
+CC-321715-30400-11-001
+COS-SMB-321715	MBA	| E02 | E02
+PR-6028086 e RAI-SBR1-03387-321715, Corrigir a rota do EQ22502R e inserir E02 do MAZ; 
+RAI-SBR1-03387-321715
+
+
+
+	
+	
+#======================================
+#DEZEMBRO
+
+CC-200526-30700-12-016 = Feito - emitido
+CC-200526-30700-13-016 = Feito - emitido
+CC-200526-30700-14-016 = Feito - emitido
+
+CC-200710-30700-12-003 = Enviado Verificação Feito - mas aind n veio resposta de caixa CC-200526-30700-12-016
+CC-200710-30700-13-003 = Enviado Verificação Feito
+CC-200710-30700-14-003 = Enviado Verificação Feito
+
+CC-200538-30700-12-005 = Enviado Verificação #= 2.2 Conforme resposta da caixa, o equiapamento HE22510 de CMD: 11CI171D00005 veio montado em outro CDM: 11LS521D00042
+CC-200538-30700-13-005 = Enviado Verificação
+CC-200538-30700-14-005 = Enviado Verificação
+
+CC-200529-30700-12-002 = Feito Publicado#- INTEGRAÇÃO DE EQUIPAMENTOS COMPARTIMENTO B420 - BH12506N E BH12507N - IT-200304-18111-11-001_0
+CC-200529-30700-13-002 = Enviado Verificação - Feito 
+CC-200529-30700-14-002 = Enviado Verificação - Feito
+
+CC-338802-30700-12-002 = Enviado Verificação - Feito -  #- IT-200384-18112-12-001 - SBH.PLM.4C20.000071 \ SBH.PLM.4C20.001115 - DJ12513C | IT-319687-18111-13-001 - DJ12512C
+CC-338802-30700-13-002 = Enviado Verificação - Feito #- IT-200384-18112-13-001
+CC-338802-30700-14-002 = Enviado Verificação - Feito #- IT-200384-18112-14-001
+
+CC-200538-30700-12-003 = Enviado apra verificação #- BE0710CD CC-200538-30700-11-005 | BE2710CE - CC-200538-30700-11-009
+CC-200538-30700-13-003 = Enviado apra verificação
+CC-200538-30700-14-003 = Enviado apra verificação
+
+CC-000000-30700-13-084 = Enviado para verificação
+CC-000000-30700-14-084 = Enviado para verificação
+
+CC-206058-80500-13-001 = Enviado apra Verificação #- INTEGRAÇÃO DOS EQUIPAMENTOS MONTADOS NA TUBULAÇÃO DOS TANQUES DE ÓLEO DE COMBUSTÍVEL A133, A161, A162 E A170 - DA32501 E DA12535N
+CC-206058-80500-14-001 = Enviado apra Verificação
+
+
+CC-000000-80500-13-051 - Enviado apra Verificação - FEITO = Paulo
+CC-000000-80500-14-051 - Enviado apra Verificação - FEITO = Paulo
+#RD-05496
+
+4.5- As porcas serão soldadas na fase de montagem, após os ajustes finais dos equipamentos, conforme SBH.2A20.SMD.004564 (F04 e F05).
+
+
+Os cilindros EF00001, EF00002, EF00017 e EF00018 forma fornecidos coma as valvulas já montadas para o SBR3. Ainda assim será realizado a inspeção M09 e os testes de sala limpa? Favor esclarecer
+
+The Cylinders EF00001, EF00002, EF00017 and EF00018 were supplied with the valves already assembled for the SBR2. Will the M09 inspection and clean room tests still be performed? Please clarify
+RD-07603
+
+
+
+CC-200710-30700-12-003
+CC-200529-30700-12-002
+CC-000000-80500-13-051
+
+
+Chegou caixa - caderno velho (Esperando verificação da caixa)
+CC-319731-30700-12-008_0 = vai só FC02520 - verificação
+CC-319731-30700-13-008_0 = vai só FC02520 - verificação
+CC-319731-30700-14-008_0 = vai só FC02520 - verificação
+
+
+
+CC-319771-15010-11-001
+
+
+
+ 1.Para instalação do equipamento EX00008 (P0124935), ver os documentos:
+SBH.2D31.SMD.006389_A (FL.29 e 32) e SBH.2D31.SAD.006385_C (FLs.02 e 03). 
+
+SMB-003050
+
+
+
+
+
+
+
+
+
+
+
+http://epm.icnavais.net/%40MV_INT_TDPIS_CTE
+http://epm.icnavais.net/%40MV_INT_TDPIS_PL
+
+http://epm.icnavais.net/%40VW_EPM_INT_REPORT_CC_LIT
+http://epm.icnavais.net/%40VW_EPM_INT_REPORT_CC_LMA
+http://epm.icnavais.net/%40VW_EPM_INT_REPORT_CC_LMA_SIEEC
+
+http://epm.icnavais.net/%40VW_ICN_SIECC_LMA_INT_TEEWE
+http://epm.icnavais.net/%40VW_ICN_SIECC_LIT_INT_TEEWE
+
+
+http://epm.icnavais.net/%40TAB_INT_DELNT_PRODXCAD_NE
+http://epm.icnavais.net/%40INT_DELNT_CRTL_META
+http://epm.icnavais.net/%40INT_DELNT_CRTL_META_REV
+
+http://epm.icnavais.net/%40MV_SISEPC_NEM
+http://epm.icnavais.net/%40epm_int_caixas
+
+http://epm.icnavais.net/%40VW_INT_NOMENCLAURE
+http://epm.icnavais.net/%40INT_AIS_SMB
+http://epm.icnavais.net/%40INT_acompanhamentos
+
+
+
+
+
+CC-319698-80500-11-016 - MB00310
+#CC-347382-18111-11-001_0 ,CC-347382-18111-12-001_0,CC-347382-18111-13-001_0,CC-347382-18111-14-001_0
+
+
+
+#RD-07576
+#Inspeções que não tem no AIS:
+
+CTE01031056	UA63334D
+CTE01031055	UA65593D
+CTE00960726	DA62554R
+CTE01031058	UA65594D
+CTE00960394	KD68572D
+CTE01054196	UP62600I
+CTE00960953	EF62517R
+CTE01031059	UA63333D
+
+select * from tabela
+where col1 in ('a','b','c') and col2 ('x','y','z')
+
+ele vai ficltrar a com x, b com y e c com z? ou n?
+
+
+Fala com Flavio
+CC-000000-30700-11-042 -
+CC-319712-30700-11-027 x -
+CC-319712-80500-11-045 -
+
+DS64100D
+testar
+
+
+
+
+
+
+
+
+
+
+
+Os equipamentos BB02507, BB02517, BB02527 e BB02537 apresentam conflito quanto a sua origem PAI/FILHO. Os equipamentos BB02517, BB02527 e BB02537 aparecem como filhos do BB02507, porém também aparecem como pais na Part List.
+
+
+
+The equipments BB02507, BB02517, BB02527 and BB02537 devices involve conflict as to their PAI / SON origin. Equipment BB02517, BB02527, and BB02537 appear as children of BB02507, but also appear as parents in the Parts List.
+
+RD-07564
+
+###USUARIO_EPM###
+
+CC-000000-80500-11-163
+#Por favor, dê uma olhada no SMB-000708. As dicas são mostradas neste documento. Exceto pelas pontas localizadas no C200 (GN02578 e GN02579), a posição exata das pontas deve ser definida pela equipe óptica de acordo com as possibilidades de mira óptica. (UA04301, UA04302, UA04303, UA04304, UA04305) Dicas adicionais podem ser adicionadas, se necessário A posição das dicas oficiais para o CIN (GN02578 e GN02579) está descrita em dois documentos SMB-324731 e SMB-323058. Dê uma olhada no SMB-200979.
+
+Os documentos enviados esclarecem o posicionamento dos GN02578 e GN02579, porém não conseguimos encontrar a posição dos (UA04301, UA04302, UA04303, UA04304, UA04305) na documentação enviada. Favor nos ajudar a esclarecer essa localização exata para isntalçao no submarino.
+
+Submitted documents clarify or position GN02578 and GN02579, but do not find the position of (UA04301, UA04302, UA04303, UA04304, UA04305) in the list of sent items. Please help us clarify this exact location for submarine installation
+
+
+
+CC-000000-30700-11-137 - Bloquiar - Não chegou na ICN
+
+CC-000000-30700-13-078 - liberado
+CC-319720-30700-13-012 - liberado
+
+CC-200710-30700-13-005 - Pago com filhos
+
+
+
+
+
+
+
+
+3.4 Os elementos de fixação para o GF02507 foram pagos no seating. {IT-200332-18111-12-001}
+
+
+
+INSTALAÇÃO DOS EQUIPAMENTOS
+1. DESENHOS DE REFERÊNCIA:
+1.1 Para instalação dos equipamentos ver documentos de referência na capa do caderno.
+2. MONTAGEM A BORDO:
+2.1 É estritamente proibido utilizar lubrificantes para montagem dos parafusos e porcas, esses componentes devem ser montados a seco.
+CONEXÕES DE CABOS A EQUIPAMENTOS ELÉTRICO
+3. DESENHOS DE REFERÊNCIA:
+3.1 Para conexão dos equipamentos ver documentos de referência na capa do caderno.
+3.2 O PR-5953203, refere-se as correções feitas em todos os manuais de conexão dos equipamentos e a PR-5707508 corrige arroleas e parafusos do equipamento OO24008.
+3.3 A instalação do modulo AS-i K20 deve ser feita somente com a proteção mecânica descrita na TAF-TA-2018-0903 (com exceção daqueles integrados a painéis ou caixas de junção). Após a instalação, deve-se analisar se a proteção é satisfatória. Caso contrário, remover o módulo.
+3.4 Alguns elementos de fixação foram alterados conforme PR-6028073, PR-6028084, PR-6028093, PR-6028097, PR-6028095, PR-6028094 e PR-6028096.
+4. NOTAS:
+4.1 Os conectores para os cabos elétricos são fornecidos em conjunto com os equipamentos, portanto o material está associado aos produtos dos equipamentos.
+4.2 As inspeções (CTE00788217, CTE00887335, CTE00781222, CTE00850775, CTE00799687, CTE00770654, CTE00760085 e CTE00847316), referentes ao QA01, só será realizada após a montagem e conexão de todos os equipamentos do COS correspondente.
+4.3 O check list no Anexo A deverá ser utilizado e preenchido devidamente pelo eletricista envolvido na execução do trabalho para cada equipamento e deverá ser repassado para o controle da qualidade executar a inspeção E01 (SMB-325109 - F115).
+
+
+
+
+https://ee4b2fca-c38c-4f23-adf6-84dc0966d6a1.ws-us1.gitpod.io/#/workspace/MOEDA_BETA002
+
+
+
+18RC000D00064
+18RC000D00044
+
+BQ00075R  - CTEPROV319712200 - 14VM100D00007 - smb-000760
+
+EF00031V  - CTEPROV319712204 - 18RC000D00044
+
+BQ00137V  - CTEPROV319712110 - 18RC000D00104 
+
+EG01163V  - CTEPROV319712113 - 18RC000D00064
+
+
+
+Conhecimento e Inovação ICN <no-reply@crossknowledge.com>
+https://icn.na.crossknowledge.com/site/path/501#tab/path/activity/794
+
+
+Retirar inspeção E01 dos cadernos abaixo. RD-07426 e RD-07427
+CC-321699-80500-11-008 = DW00102, DW00106 E DW00202
+CC-321699-80500-12-004
+CC-321699-80500-13-004
+CC-321699-80500-14-004
+	
+CC-321699-80500-11-002 = DW00201 E DW00204
+CC-321699-80500-11-002
+CC-321699-80500-11-002
+CC-321699-80500-11-002
+
+
+
+
+
+CC-200526-30700-14-030 -- teste E07
+
+
+
+
+Calços
+CC-200716-30700-11-019
+
+
+
+
+SIECC AJUSTES
+
+AJUSTES TESTADOS:
+- Emissão de documentos junto com Templates para o CEDOC - O Windchill está recebedo os documentos perfeitamente com relações entre os documentos)
+- Alterações de Templates - (Tanto em Elaboração, como substituição após publicado)
+
+# Para finalizar os ajustes do SIECC relacionado a primeira emissão dos caderno precisamos:
+
+PRIMEIRA ETAPA:
+- Testar as funcionalidade em todas as disciplinas. (Em andamento)
+- Ajusta o botão REJEITADADO CEDOC. (Precisa apagar o caderno no servidor quando documento for rejeitado).
+- Cria um mecanismo de comparativo entre LIT/DEI e templates a serem emitidos. Essa análise pode acontecer no momento da carga dos templates, uma validação de que todos os templates que foram subidos, constam na LIT/DEI. (Diminuir erros de publicação no Windchill).
+
+SEGUNDA ETAPA:
+- Testar o comportamento do sistema nas revisões pra garantir que está tudo rodando perfeitamente.
+
+TERCEIRA ETAPA:
+- Por em produção e acompanha o desempenho do sistema 
+
+
+
+RD-07531
+
+
+
+
+
+
+
+
+CTE00931815     E01         DEI-319760-30600-11-001            - NÃO RELACIONADO NO DEI = DP00200 - Caderno (Será revisado)
+CTE00976504     E01         DEI-319693-47312-11-023            - NÃO RELACIONADO NA LIT = KT06582 - Esse template vai sair no CC-319693-30600-11-001 (Será revisado)
+CTE00976500     E01         DEI-319693-47312-11-033            - NÃO RELACIONADO NA LIT =   KT06573 - Esse template vai sair no CC-319693-30600-11-002 (Será reivisado)
+CTE00976501     E01         DEI-319693-47312-11-013            - NÃO RELACIONADO NA LIT = KT06571 - Esse template vai sair no CC-319693-30600-11-001 (Será reivisado)
+CTE00769275     E07         CADERNO NÃO ENCONTRADO  - COS-SMB-CAB-HD-KD/COS - SMB-200712 – NÃO LOCALIZADO =  KD68572D - Esse template vai sair no - CC-200712-30600-11-016
+CTE00769534     E07         CADERNO NÃO ENCONTRADO  - COS-SMB-CAB-HDKD/COS-SMB-200713 – NÃO LOCALIZADO = KD68571D - Esse template vai sair no - CC-200712-30600-11-016
+CTE00784533     E01         CADERNO NÃO ENCONTRADO  - COS-SMB-319721 – NÃO LOCALIZADO = ES12500Q - Esse template vai sair no - CC-319720-80500-11-008
+
+
+
+
+SMB-319720	D	CTE00784533	E01-INSP OF THE ASSEMBLY AND THE CONNECTION ...	53A-ES12500Q	CC-319720-80500-11-008
+SMB-319760	D	CTE00931815	E01-INSP OF THE ASSEMBLY AND THE CONNECTION ...	53A-DP00200	CC-319760-30600-11-001
+SMB-319693	F	CTE00976500	E01-INSP OF THE ASSEMBLY AND THE CONNECTION ...	53A-KT06573	CC-319693-30600-11-002
+SMB-319693	F	CTE00976501	E01-INSP OF THE ASSEMBLY AND THE CONNECTION ...	53A-KT06571	CC-319693-30600-11-001
+SMB-319693	F	CTE00976504	E01-INSP OF THE ASSEMBLY AND THE CONNECTION ...	53A-KT06582	CC-319693-30600-11-001
+
+SMB-200712	E	CTE00769275	E07-INSP OF THE CONTINUITY AND INSULATION ...	53A-KD68572D	CC-200712-30600-11-016
+SMB-200712	E	CTE00769534	E07-INSP OF THE CONTINUITY AND INSULATION ...	53A-KD68571D	CC-200712-30600-11-016
+
+
+abrir rida
+UA63334D
+UA65593D
+UA65594D
+EF62517R
+UA63333D
+

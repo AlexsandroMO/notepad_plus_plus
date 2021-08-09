@@ -1,0 +1,39 @@
+
+
+
+<script>
+//https://docs.microsoft.com/pt-br/office/dev/add-ins/excel/excel-add-ins-worksheets
+Excel.run(function (context) {
+    var sheet = context.workbook.worksheets.getItem("Sample");
+    var cell = sheet.getCell(1, 4);
+    cell.load("address, values");
+
+    return context.sync()
+        .then(function() {
+            console.log(`The value of the cell in row 2, column 5 is "${cell.values[0][0]}" and the address of that cell is "${cell.address}"`);
+        })
+}).catch(errorHandlerFunction);
+
+</script>
+
+
+<!-- 
+<script>
+Excel.run(function (context) {
+    var sheets = context.workbook.worksheets;
+    sheets.load("items/name");
+
+    return context.sync()
+        .then(function () {
+            if (sheets.items.length > 1) {
+                console.log(`There are ${sheets.items.length} worksheets in the workbook:`);
+            } else {
+                console.log(`There is one worksheet in the workbook:`);
+            }
+            sheets.items.forEach(function (sheet) {
+              console.log(sheet.name);
+            });
+        });
+}).catch(errorHandlerFunction);
+</script>
+ -->
